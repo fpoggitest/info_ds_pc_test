@@ -1,2 +1,5 @@
 # info_ds_pc_test
-bla bla
+Questo è un progetto di prova che si occupa di:
+- fare
+- disfare
+- rifare
